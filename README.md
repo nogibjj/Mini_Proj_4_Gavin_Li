@@ -5,3 +5,7 @@ Gavin Li `gl183`
 
 ## Purpose of the project
 
+The purpose of this week's mini project is to test different python versions in GitHub Action.
+
+## Format, Lint, Matrix
+
