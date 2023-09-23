@@ -9,3 +9,14 @@ The purpose of this week's mini project is to test different python versions in 
 
 ## Format, Lint, Matrix
 
+Result for `make lint`:
+
+![Lint_result](./resources/make_lint_result.png)
+
+Result for `make test`:
+
+![Test_result](./resources/make_test_result.png)
+
+Result of GitHub Actions:
+
+![Matrix_result](./resources/matrix_result.png)
